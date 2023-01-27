@@ -20,4 +20,6 @@ THEN the saved events persist,
 ## Description
 This project was built for the purpose of being a user's workday schedule from nine am to five pm. The current day is is displayed at the top of the calendar, when you scroll down you are presented with colour coded time slots that the user is able to input the details of their daily schedule. The present time slot is highlighted red, the past tense time slots are grey and the future time slots are green. The details of each hour are saved into local storage so that when the page is reloaded the user's input remains. 
 ## Screenshots
+![Screen Shot 2023-01-26 at 10 59 53 PM (2)](https://user-images.githubusercontent.com/119896626/215006938-d73e1db2-4958-4f4d-832b-dca8ba46ff15.png)
 ## Live Url of Project
+https://aidenclare09.github.io/serious/
